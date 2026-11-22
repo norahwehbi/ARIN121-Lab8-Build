@@ -1,0 +1,6 @@
+{
+  "name": "StudyNotes Quiz Generator",
+  "description": "Generate exactly three multiple-choice questions from your study material, submit answers, and receive detailed scores and explanations based strictly on the text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
